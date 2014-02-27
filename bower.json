@@ -1,0 +1,9 @@
+{
+  "name": "crox",
+  "version": "1.2.7",
+  "main": "./crox.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wangjeaf/crox-bower.git"
+  }
+}

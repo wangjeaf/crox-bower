@@ -1,4 +1,8 @@
 crox-bower
 ==========
 
-bower package for crox
+Bower Package for [Crox](https://github.com/thx/crox)
+
+## Install
+
+`bower install crox`
